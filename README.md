@@ -4,4 +4,4 @@ A SSH Client
 
 Sassha is a useful client & server for SSH protocol
 
-I hope to make a Gnome app, Windows App, and Android App, maybe include MacOs and IOS
+Also I will make a GTK4 application, Windows application, and Android App, maybe include MacOs and IOS
